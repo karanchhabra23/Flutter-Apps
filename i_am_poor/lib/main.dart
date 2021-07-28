@@ -7,7 +7,7 @@ void main() {
       backgroundColor: Color(0xFFC0F2B7),
       appBar: AppBar(
         title: Center(child: Text('I AM POOR')),
-        backgroundColor: Color(0xFF53FAC9),
+        backgroundColor: Color(0xFFA0FA83),
       ),
       body: Center(
         child: Image(
